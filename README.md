@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Yash Verma
+# Yash Verm
 
 #### AI/ML Engineer · Data Scientist · Statistics Researcher · IIT Delhi
 
