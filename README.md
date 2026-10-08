@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Yash Verm
+# Yash Verma
 
 #### AI/ML Engineer · Data Scientist · Statistics Researcher · IIT Delhi
 
@@ -156,12 +156,46 @@ learning:    Advanced ML · Deep Learning · Statistical Modeling
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 [![RAG Business Assistant](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Rag-Business-Assistant&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Rag-Business-Assistant)
-[![AI-Driven Multi-Agent Investment Research Platform](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=finsight&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/finsight)
+
+</td>
+<td width="50%" align="center">
+
+[![FinSight](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=finsight&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/finsight)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
 [![Toxic Comment Classifier](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Toxic-Comment-Classifier&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Toxic-Comment-Classifier)
-[![Customer Risk Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=vyas0048-bit&repo=Customer_Risk&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Customer_Risk)
+
+</td>
+<td width="50%" align="center">
+
+[![Customer Risk Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Customer_Risk&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Customer_Risk)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
 [![Fraud Detection Engine](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Fraud_Detection&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Fraud_Detection)
+
+</td>
+<td width="50%" align="center">
+
 [![Wine Quality Prediction AI](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Wine-quality-Prediction-using-ML-with-MLops&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Wine-quality-Prediction-using-ML-with-MLops)
+
+</td>
+</tr>
+</table>
 
 </div>
 
