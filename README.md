@@ -160,25 +160,12 @@ learning:    Advanced ML · Deep Learning · Statistical Modeling
 <tr>
 <td width="50%" align="center">
 
-[![RAG Business Assistant](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Rag-Business-Assistant&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Rag-Business-Assistant)
+[![RAG Business Assistant](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Rag-Business-Assistant&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/Rag-Business-Assistant)
 
 </td>
 <td width="50%" align="center">
 
-[![FinSight](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=finsight&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/finsight)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-[![Toxic Comment Classifier](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Toxic-Comment-Classifier&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Toxic-Comment-Classifier)
-
-</td>
-<td width="50%" align="center">
-
-[![Customer Risk Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Customer_Risk&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Customer_Risk)
+[![FinSight](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=finsight&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/finsight)
 
 </td>
 </tr>
@@ -186,12 +173,25 @@ learning:    Advanced ML · Deep Learning · Statistical Modeling
 <tr>
 <td width="50%" align="center">
 
-[![Fraud Detection Engine](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Fraud_Detection&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Fraud_Detection)
+[![Toxic Comment Classifier](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Toxic-Comment-Classifier&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/Toxic-Comment-Classifier)
 
 </td>
 <td width="50%" align="center">
 
-[![Wine Quality Prediction AI](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Wine-quality-Prediction-using-ML-with-MLops&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/vyash0048-bit/Wine-quality-Prediction-using-ML-with-MLops)
+[![Customer Risk Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Customer_Risk&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/Customer_Risk)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+[![Fraud Detection Engine](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Fraud_Detection&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/Fraud_Detection)
+
+</td>
+<td width="50%" align="center">
+
+[![Wine Quality Prediction AI](https://github-readme-stats.vercel.app/api/pin/?username=vyash0048-bit&repo=Wine-quality-Prediction-using-ML-with-MLops&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF&description_lines_count=2&v=2)](https://github.com/vyash0048-bit/Wine-quality-Prediction-using-ML-with-MLops)
 
 </td>
 </tr>
